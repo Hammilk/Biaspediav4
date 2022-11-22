@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Biaspediav4</string>
+    <string name="textview">TextView</string>
+    <string name="activity1">Activity 1</string>
+    <string name="activity2">Activity 2</string>
+    <string name="content">Bias Icon</string>
+    <string name="search">Search</string>
+
+    <string-array name="bias_full_txt">
+        <item>Abilene Paradox</item>
+        <item>Action Bias</item>
+        <item>Affect Heuristic</item>
+        <item>Authority Bias</item>
+        <item>Automation Bias</item>
+        <item>Availability Heuristic</item>
+        <item>Backfire effect</item>
+        <item>Base Rate Fallacy</item>
+        <item>Ben Franklin Effect</item>
+        <item>Bikeshedding</item>
+
+    </string-array>
+
+    <string-array name="bias_definition">
+        <item>A group\'s decisions often contradict the opinions of individual members.</item> <!--Abilene Paradox-->
+        <item>We prefer doing something to doing nothing.</item> <!--Action Bias-->
+        <item>We rely on our current emotions when making quick decisions.</item> <!--Affect Heuristic-->
+        <item>We trust and are more often influenced by the opinions of authority figures.</item> <!--Authority Bias-->
+        <item>We rely on automated systems, sometimes trusting too much in the automated correction of actually correct decisions.</item> <!--Automation Bias-->
+        <item>We make a decision based on an example/information/recent experience that is readily available to us, even though it may not be the best example to inform your decision.</item> <!--Availability Heuristic-->
+        <item>Disproving evidence sometimes has the unwarranted effect of confirming our beliefs.</item> <!--Backfire Effect-->
+        <item>We tend to assign greater value to the specific information and often ignore the base rate (statistical) information altogether.</item> <!--Base Rate Fallacy-->
+        <item>A person who has already performed a favor for another person is more likely to do another favor for the other than if they had received a favor from that person.</item> <!--Ben Franklin Effect-->
+        <item>We tend to devote a disproportionate amount of our time to menial and trivial matters while leaving important matters unattended.</item> <!--Bikeshedding-->
+
+    </string-array>
+
+    <string-array name="bias_quotes">
+        <item>"A good manager doesn't try to eliminate conflict; he tries to keep it from wasting
+            the energies of his people. If you're the boss and your people fight you openly when
+            they think that you are wrong, that's healthy." - Robert Townsend</item> <!--Abilene Paradox-->
+        <item>"Life was always a matter of waiting for the right moment to act." - Paulo Coelho</item> <!--Action Bias-->
+        <item>"Don't make a permanent decision for your temporary emotion." - Anonymous</item> <!--Affect Heuristic-->
+        <item>“I think we should just trust our president in every decision that he makes and we should just support that.” - Britney Spears</item> <!--Authority Bias-->
+        <item>"WIP "Thanks autocorrect."</item> <!--Automation Bias-->
+        <item>"If your answer isn't on the first page of Google results, it doesn't exist."</item> <!--Availability Heuristic-->
+        <item>WIP</item> <!--Backfire Effect-->
+        <item>"The dice has landed on 6 five times in a row, so it's likely to land on 6 again next time." -more specific, pop culture </item> <!--Base Rate Fallacy-->
+        <item>"A lot of actresses start out modeling because it is a great way to sort of get your foot in the door. That's all it is, though. They open the door and you have to walk in." -Krysten Ritter.</item> <!--Ben Franklin Effect-->
+        <item>WIP</item> <!--Bikeshedding-->
+    </string-array>
+
+</resources>
